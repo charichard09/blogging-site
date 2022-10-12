@@ -13,8 +13,15 @@ body {
 }
 
 .box {
-  /* border: solid black; */
   width: 80%;
   margin: auto;
   margin-bottom: 10px;
+}
+
+.centered-image {
+  width: 50%;
+  height: auto;
+  margin: auto;
+  border: solid black;
+  display: block;
 }
