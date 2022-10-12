@@ -2,3 +2,12 @@
   font-style: italic;
   text-indent: 10px;
 }
+
+.about-me {
+  font-family: 'Times New Roman';
+  background-color: #815B5B;
+}
+
+body {
+  background-color: #9E7676;
+}
