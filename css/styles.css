@@ -11,3 +11,10 @@
 body {
   background-color: #9E7676;
 }
+
+.box {
+  /* border: solid black; */
+  width: 80%;
+  margin: auto;
+  margin-bottom: 10px;
+}
